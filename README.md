@@ -1,10 +1,10 @@
 # Snake in Python
 Snake programmed in Python using the pygame library as my first programming project in 2015
 
-**Dependencies:**  
+## Dependencies:
 - pyGame library
 
-**Usage:**  
+## Usage:  
 ```
 python3.6 snake.py
 ```
