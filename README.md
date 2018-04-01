@@ -2,4 +2,4 @@
 Snake programmed in Python using the pygame library as my first programming project in 2015
 
 
-![Snake video](https://giant.gfycat.com/TautThisAfricanpiedkingfisher.webm)
+![Snake video](https://i.imgur.com/QV4VNt4.gifv)
